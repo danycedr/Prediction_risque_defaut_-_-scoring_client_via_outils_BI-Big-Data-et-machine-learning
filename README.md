@@ -96,9 +96,9 @@ L’objectif est de fournir une **analyse prédictive complète**, d’en **extr
 ## 👨‍💻 Auteur
 
 **Manfo Nodèm Dany Cedrick**  
-Executive Master en Data Science – Université de Namur; __
-Junior data analyst - UCL ;  __
-Master finance - HEC Liège.
+Executive Master en Data Science; __
+Junior data analyst;  __
+Master finance .
 📧 manfo.dany@example.com • 🌐 [LinkedIn](https://www.linkedin.com/in/)
 
 ---
