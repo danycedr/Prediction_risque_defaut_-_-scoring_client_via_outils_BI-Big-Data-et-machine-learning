@@ -1,5 +1,4 @@
-# 🔍 Analyse prédictive du risque de défaut de paiement et scoring client  
-### 💡 À l’aide des outils de Business Intelligence et de Big Data
+# 🔍 💡Analyse prédictive du risque de défaut de paiement et scoring client À l’aide des outils de Business Intelligence et de Big Data
 
 ---
 
