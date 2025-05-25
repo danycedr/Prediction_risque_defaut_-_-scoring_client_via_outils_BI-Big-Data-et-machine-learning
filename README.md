@@ -26,7 +26,7 @@ L’objectif est de fournir une **analyse prédictive complète**, d’en **extr
 - Méthodologie et outils mobilisés : Python, Power BI, Spark, etc.
 
 ### 2. Préparation des données
-- Source : Dataset **"Give Me Some Credit"** (Kaggle) — jeu de données riche et représentatif sur le risque de crédit client  
+- Source : Dataset **"Home Credit Default Risk"** (Kaggle) — jeu de données riche et représentatif sur le risque de crédit client  
 - Nettoyage : traitement des valeurs manquantes, gestion des outliers  
 - Feature engineering : création de variables pertinentes pour la prédiction  
 - Prétraitement pour la modélisation (normalisation, encodage, etc.)
