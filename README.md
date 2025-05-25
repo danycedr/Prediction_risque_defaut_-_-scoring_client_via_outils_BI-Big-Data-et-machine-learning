@@ -104,5 +104,4 @@ Master finance .
 ---
 
 ## 📝 Licence
-
-Projet académique – Licence MIT 
+Licence MIT 
