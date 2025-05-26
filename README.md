@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Objectif académique
+## 🎯 Objectif 
 
 Ce projet vise à **identifier et résoudre un problème concret lié à la gestion du risque client** dans le contexte d’une activité de crédit.  
 Il s’appuie sur deux unités d’enseignement du certificat : **Business Intelligence** et **Big Data**. Deux problématiques centrales guident l’approche :
